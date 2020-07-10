@@ -1,2 +1,2 @@
-# Astar_cocos
-a demo about Astart for cocos creator
+# hello-world
+Hello world new project template.
